@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Logs and tests
+*.log
+test_streamlit*
+
+# Streamlit local credentials (do not commit email)
+.streamlit/credentials.toml
+
